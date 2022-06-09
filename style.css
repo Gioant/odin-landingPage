@@ -41,7 +41,7 @@ header h2 {
 
 .box-parent{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     padding-top: 75px;
     padding-bottom: 75px;
 }
@@ -72,7 +72,7 @@ header h2 {
 
 #hero-img {
     width: 500px;
-    height: 200px;
+    height: 100%;
     background-color: gray;
 }
 
