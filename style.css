@@ -9,9 +9,18 @@ Body, .top-container{
     flex-direction: column;
 }
 
+.top-container, footer {
+    background-color: #1F2937;
+}
+
 header {
     display: flex;
     justify-content: space-around;
+}
+
+header h2 {
+    color: #F9FAF8;
+    font-size: 24px;
 }
 
 .navBar ul {
@@ -24,6 +33,9 @@ header {
 }
 
 .links a {
+    color: #E5E7EB;
     text-decoration: none;
 }
+
+
 
