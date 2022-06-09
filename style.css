@@ -42,6 +42,8 @@ header h2 {
 .box-parent{
     display: flex;
     justify-content: center;
+    padding-top: 75px;
+    padding-bottom: 75px;
 }
 
 #box-left {
@@ -57,6 +59,15 @@ header h2 {
 #box-left p {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+#box-left button {
+    color: #fff;
+    background-color: #3882F6;
+    margin-top: 10px;
+    padding: 5px 25px;
+    border-style: none;
+    border-radius: 5px;
 }
 
 #hero-img {
