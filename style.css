@@ -39,8 +39,14 @@ header h2 {
     text-decoration: none;
 }
 
-/* .box-parent{
-} */
+.box-parent{
+    display: flex;
+    justify-content: center;
+}
+
+#box-left {
+    width: 420px;
+}
 
 #box-left h1 {
     font-size: 48px;
@@ -51,6 +57,12 @@ header h2 {
 #box-left p {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+#hero-img {
+    width: 500px;
+    height: 200px;
+    background-color: gray;
 }
 
 
