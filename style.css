@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+html,body{
+    width: 100vw;
+    height: 100vh;
+}
+
 Body, .top-container{
     display: flex;
     flex-direction: column;
@@ -42,8 +47,8 @@ header h2 {
 .box-parent{
     display: flex;
     justify-content: space-evenly;
-    padding-top: 75px;
-    padding-bottom: 75px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 #box-left {
