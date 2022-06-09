@@ -34,14 +34,23 @@ header h2 {
 }
 
 .links a {
+    font-size: 18px;
     color: #E5E7EB;
     text-decoration: none;
 }
+
+/* .box-parent{
+} */
 
 #box-left h1 {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
+}
+
+#box-left p {
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 
