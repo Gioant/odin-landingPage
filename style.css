@@ -145,6 +145,20 @@ h2 {
     color: #1F2937;
 }
 
+.cta {
+    margin: 100px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#3882F6;
+}
+
+.cta-left {
+    color: white;
+}
+
 .footer {
     padding-top: 25px;
     padding-bottom: 25px;
