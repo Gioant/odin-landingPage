@@ -152,6 +152,7 @@ h2 {
     padding-top: 75px;
     padding-bottom: 75px;
     display: flex;
+    gap: 16rem;
     justify-content: center;
     align-items: center;
     background-color:#3882F6;
@@ -160,6 +161,10 @@ h2 {
 
 .cta-left {
     color: white;
+}
+
+.cta-left p {
+    opacity: 0.75;
 }
 
 .cta-right button{
