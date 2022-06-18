@@ -1,2 +1,3 @@
 # odin-landingPage
-Landing Page Project from the foundations curriculum from theodinproject.com
+
+Landing Page Project for the The odin project
