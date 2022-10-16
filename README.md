@@ -1,5 +1,7 @@
 # odin-landingPage
 
-Landing Page Project for the The odin project
+Simple Landing Page Project Using Html,Css (No frameworks)
 
-Update: Added Custom Content
+Note: Use a desktop computer for optimal viewing experience
+
+Update: replaced placeholders with custom content
